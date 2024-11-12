@@ -1,0 +1,33 @@
+.btn-yours {
+  color:#989898;
+  display: inline-block;
+  background: linear-gradient(to right, #1CDD87 50%, white 50%);
+  background-size: 200% 100%;
+  background-position: right bottom;
+  padding: 15px 45px;
+  border-radius: 25px;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  transition: all .1s ease-out;
+
+}
+
+.btn-yours:hover {
+  color: #fffc33;
+  transition: 0.2s linear;
+  background-position: left bottom;
+}
+
+.btn-primary {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+.btn-secondary {
+  border: 1px solid #1EDD88;
+  padding: 8px 16px;
+  border-radius: 50px;
+  color: #1EDD88;
+}

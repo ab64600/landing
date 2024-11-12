@@ -1,0 +1,7 @@
+.snippet {
+  width: 100%;
+  max-width: 900px;
+  margin: auto;
+  padding: 0px 0px 50px 0px;
+  box-sizing: border-box;
+}
